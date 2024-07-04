@@ -2,7 +2,8 @@
 
 An Atto plugin to insert Pinyin characters.
 
-(This plugin is no longer actively maintained.)
+This plugin was originally developed in 2018 and maintained till 2021.
+(It is no longer actively maintained.)
 
 ## Installing via uploaded ZIP file ##
 
