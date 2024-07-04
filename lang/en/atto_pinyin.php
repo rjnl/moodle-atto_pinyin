@@ -23,7 +23,7 @@
  */
 
 $string['insertcharacter'] = 'Insert Pinyin characters';
-$string['pluginname'] = 'Pinyin Characters';
+$string['pluginname'] = 'Pinyin characters';
 $string['privacy:metadata'] = 'The atto_pinyin plugin does not store any personal data.';
 
 // The following are not ordered on purpose, they are kept

@@ -1,4 +1,4 @@
-# Pinyin #
+# Pinyin characters#
 
 An Atto plugin to insert Pinyin characters.
 
