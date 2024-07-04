@@ -2,3 +2,7 @@
     width: 2em;
     padding: 0 3px;
 }
+
+.atto_pinyin_button .icon {
+	height: 16px;
+}
